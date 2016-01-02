@@ -1,3 +1,3 @@
-# angular_filters
+# Using Angular's Built-in Filters
 
 Lets do this
